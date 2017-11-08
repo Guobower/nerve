@@ -1,0 +1,10 @@
+# Cache
+__pycache__/
+
+# Folders
+env/
+.vagrant/
+.idea/
+
+# Database
+*.db
